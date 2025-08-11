@@ -37,7 +37,7 @@ I believe the best solutions come from deeply understanding the fundamentals —
 ### Productivity & Management
 ![Notion](https://img.shields.io/badge/Notion-Advanced-black)
 ![Trello](https://img.shields.io/badge/Trello-Basic-blue)
-![Excel](https://img.shields.io/badge/Excel-Intermediate-green)
+![Excel](https://img.shields.io/badge/Excel-Advanced-green)
 ![HubSpot](https://img.shields.io/badge/HubSpot-Intermediate-orange)
 
 ### Languages
