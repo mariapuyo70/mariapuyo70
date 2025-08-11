@@ -1,3 +1,6 @@
+[![Español](https://img.shields.io/badge/Idioma-Español-red)](README.md)
+[![English](https://img.shields.io/badge/Language-English-blue)](README.en.md)
+
 <!-- Banner animado -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=500&color=F7F7F7&background=000000&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Mar%C3%ADa+Puy%C3%B3+Rold%C3%A1n!;42+M%C3%A1laga+Student+%F0%9F%9A%80;Learning+to+build+things+from+scratch+%F0%9F%92%BB)
 
