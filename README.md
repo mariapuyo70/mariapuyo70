@@ -37,7 +37,7 @@ Creo que las mejores soluciones nacen de comprender bien las bases, y ese es jus
 ### Productividad y Gestión
 ![Notion](https://img.shields.io/badge/Notion-Avanzado-black?logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-Básico-blue?logo=trello&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-Intermedio-green?logo=microsoft-excel&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-Avanzado-green?logo=microsoft-excel&logoColor=white)
 ![HubSpot](https://img.shields.io/badge/HubSpot-Intermedio-orange?logo=hubspot&logoColor=white)
 
 ### Idiomas
